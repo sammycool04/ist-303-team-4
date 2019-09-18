@@ -1,6 +1,20 @@
 Lonely, I am Mr. Lonely. I have nobody for my own.
+<<<<<<< HEAD
 In another life, I would be your girl
 We keep all our promises, be us against the world
 In another life, I would make you stay
 So I don't have to say you were the one that got away
 The one that got away
+=======
+Sailin' away on the crest of a wave
+It's like magic
+Oh, rollin' and ridin' and slippin' and slidin'
+It's magic
+And you, and your sweet desire
+You took me higher and higher, baby
+It's a livin' thing
+It's a terrible thing to lose
+It's a given thing
+What a terrible thing to lose..
+Sometimes in our lives, we all have pain, we all have sorrow.
+>>>>>>> 787f99f1ae03dd23286530880e9230d327d9e7e7
